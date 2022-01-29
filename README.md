@@ -8,5 +8,5 @@ Zoogle es un proyecto de prueba que desde el 28 de Enero de 2022 se compactó su
 
 Este proyecto nace a manos de su creador Yofre Ormaza, quien será el que por varios años estará ofreciendole soporte al navegador mediante actualizaciones ligeras y acorde a las peticiones de los usuarios.
 
-Sitio web [aquí](https://yofreee.github.io/zoogle-independent-browser-yofre/ "aquí")
+Sitio web [aquí](https://yofreee.github.io/zoogle/ "aquí")
 </p>
